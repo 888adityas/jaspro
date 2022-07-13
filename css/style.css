@@ -4694,3 +4694,19 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
   width: 100%;
   height: 20rem;
 }
+.pro-padding{
+  padding: 25px 0 !important;
+}
+.pro-email{
+  padding-top: 0rem;
+}
+.my-padding{
+  padding: 1rem 3rem;
+}
+/* our clients */
+.greyscale{
+  filter: grayscale(100%) ;
+}
+.greyscaleInvert{
+  filter: grayscale(100%) invert(100%);
+}
