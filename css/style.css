@@ -165,7 +165,7 @@ p{
 }
 
 .very-dark-section {
-  background: #6e6f66;
+  background: #6e6f664f;
 }
 
 .no-padding-top {
@@ -1730,8 +1730,8 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
   text-align: center;
 }
 .promo-logo-list li {
-  margin: 0;
-  padding: 0;
+  padding:0 2rem;
+
 }
 .promo-logo-list a:hover {
   opacity: 0.5;
@@ -4708,5 +4708,5 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
   filter: grayscale(100%) ;
 }
 .greyscaleInvert{
-  filter: grayscale(100%) invert(100%);
+  filter: drop-shadow(100%);
 }
