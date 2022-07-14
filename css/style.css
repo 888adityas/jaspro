@@ -166,6 +166,7 @@ p{
 
 .very-dark-section {
   background: #6e6f664f;
+  /* height: 10vh; */
 }
 
 .no-padding-top {
@@ -3187,6 +3188,9 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
   text-align: center;
   margin-bottom: -13px;
 }
+.client-list li{
+  padding: 2rem;
+}
 .client-list li a:hover {
   opacity: 0.5;
 }
@@ -4702,6 +4706,9 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
 }
 .my-padding{
   padding: 1rem 3rem;
+}
+.manu-padding{
+  padding: 0 3vw;
 }
 /* our clients */
 .greyscale{
