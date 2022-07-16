@@ -1729,9 +1729,13 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
   padding: 48px 0;
   margin: 0;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .promo-logo-list li {
-  padding:0 2rem;
+  padding:0 1.5rem;
+
 
 }
 .promo-logo-list a:hover {
@@ -4717,3 +4721,4 @@ h4.resp-accordion.resp-tab-active:active .resp-arrow:before {
 .greyscaleInvert{
   filter: drop-shadow(100%);
 }
+
